@@ -64,7 +64,7 @@ Below are key visualizations from the analysis:
 - Investigate loss-making products to improve margins
 
 ## Project Structure
-
+```
 Business_analytics/
 │
 ├── data/
@@ -83,7 +83,7 @@ Business_analytics/
 ├── .gitignore
 ├── README.md
 └── requirements.txt 
-
+```
 ## 🚀 How to Run
 
 1. Clone this repository
