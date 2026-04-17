@@ -4,6 +4,17 @@ A business-focused data analysis project identifying profitability issues and op
 
 This project analyzes retail sales data to identify key drivers of profitability and uncover loss-making areas across categories, sub-categories, and regions.
 
+---
+
+## TL;DR
+
+- End-to-end data analysis using Python, SQL, and Power BI  
+- Identified loss-making sub-categories (e.g., Tables)  
+- Analyzed the negative impact of discounts on profit  
+- Built an interactive Power BI dashboard for business insights  
+
+---
+
 ## Objective
 
 The goal of this project is to:
@@ -17,6 +28,7 @@ The goal of this project is to:
 
 - Python (pandas, matplotlib)
 - SQL (SQLite)
+- Power BI (dashboard & visualization)
 - Excel (data exploration)
 - Jupyter Notebook (analysis)
 
@@ -30,6 +42,18 @@ The dataset contains approximately 10,000 retail transactions, including:
 - Regional information
 
 The data is clean with no missing values.
+
+## 📊 Power BI Dashboard
+
+An interactive dashboard was created using Power BI to analyze sales and profitability.
+
+### Key Features:
+- KPI cards for Total Sales, Total Profit, and Total Orders  
+- Category-wise sales performance  
+- Sub-category profitability analysis  
+- Regional profit comparison  
+- Discount vs Profit relationship  
+- Interactive filters (Region, Category)  
 
 ## Key Analysis
 
@@ -78,7 +102,7 @@ Business_analytics/
 │   └── queries.sql
 │
 ├── PowerBI/
-│   └── 
+│   └── superstore_dashboard.pbix
 │
 ├── .gitignore
 ├── README.md
