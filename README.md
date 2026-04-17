@@ -46,6 +46,7 @@ The data is clean with no missing values.
 ## 📊 Power BI Dashboard
 
 An interactive dashboard was created using Power BI to analyze sales and profitability.
+![Dashboard](./images/dashboard.png)
 
 ### Key Features:
 - KPI cards for Total Sales, Total Profit, and Total Orders  
